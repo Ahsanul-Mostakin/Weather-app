@@ -1,4 +1,4 @@
-# Weather App
+# Weather App 
 
 A simple weather application built with Node.js, Express, and the OpenWeather API. Users can input a city name to fetch and display real-time weather data.
 
@@ -17,4 +17,6 @@ A simple weather application built with Node.js, Express, and the OpenWeather AP
 - Node.js installed
 - OpenWeather API key
 
+## Live Demo
 
+You can view the live demo of the weather app at [this link](https://weather-app-kxkj.onrender.com/).
