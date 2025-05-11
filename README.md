@@ -22,4 +22,4 @@ A simple weather application built with Node.js, Express, and the OpenWeather AP
 
 ## Live Demo
 
-[View Live](https://weather-app-kxkj.onrender.com)
+[View Live](https://weather-app-kxkj.onrender.com/)
