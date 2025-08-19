@@ -1,25 +1,18 @@
-# Weather App
+# weather-app
 
-A simple weather application built with Node.js, Express, and the OpenWeather API. Users can input a city name to fetch and display real-time weather data.
+A simple Node.js and Express weather app using the OpenWeather API to fetch real-time weather data by city.
 
 ## Features
+- Get current weather by city
+- Shows temperature, description, and icon
+- Simple, user-friendly interface
 
-- Input city name to retrieve current weather information
-- Displays temperature, weather description, and a weather icon
-- Simple and user-friendly web interface
-
-## Technologies Used
-
-- **Node.js**: Backend JavaScript runtime
-- **Express.js**: Web framework
-- **Body-parser**: Middleware for parsing request bodies
-- **OpenWeather API**: For fetching weather data
-
-## Prerequisites
-
-- Node.js installed
-- OpenWeather API key
+## Tech
+Node.js | Express.js | OpenWeather API | Body-parser
 
 ## Live Demo
+[https://weather-app-kxkj.onrender.com/](https://weather-app-kxkj.onrender.com)
 
-[View Live](https://weather-app-kxkj.onrender.com/)
+---
+Made with ❤️ by **Ahsanul Mostakin**
+---
